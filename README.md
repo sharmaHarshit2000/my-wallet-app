@@ -122,16 +122,16 @@ my-wallet-app/
 ## 🎨 Screenshots
 
 **Dashboard**  
-![Dashboard Screenshot](././screenshots/dashboard.png)
+![Dashboard Screenshot](./my-wallet-app/screenshots/dashboard.png)
 
 **Login Page**  
-![Login Screenshot](././screenshots/login.png)
+![Login Screenshot](./my-wallet-app/screenshots/login.png)
 
 **Register Page**  
-![Register Screenshot](././screenshots/register.png)
+![Register Screenshot](./my-wallet-app/screenshots/register.png)
 
 **Transfer Form**  
-![Transfer Form Screenshot](././screenshots/transfer.png)
+![Transfer Form Screenshot](./my-wallet-app/screenshots/transfer.png)
 
 ---
 
